@@ -70,6 +70,5 @@ The author is not responsible for any misuse or illegal activities conducted wit
 </p>
 <hr>
 <p align="center">
-<b>Researcher:</b> BassamHossam (ufo)<br>
-<i>Mastering the Memory Abyss 🖕🔥</i>
+<b>Researcher:</b> BassamHossam (0xufo)<br>
 </p>
