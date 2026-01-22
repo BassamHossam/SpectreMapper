@@ -52,7 +52,7 @@ SpectreMapper.exe notepad.exe TestPayload.exe
 <p align="center">
 <img src="execution_log.gif" alt="Execution Log Screenshot" width="80%">
 <br>
-<i>Figure 1: Successful mapping showing Delta calculation and IAT resolution for CRT libraries.</i>
+<i>Figure 1: End-to-end demonstration of SpectreMapper injecting and executing a PE payload inside a live process.</i>
 </p>
 <hr>
 <h2>🎯 Research Goals</h2>
