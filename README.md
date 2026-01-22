@@ -1,3 +1,5 @@
+![SpectreMapper](assets/demo.gif)
+
 <h1 align="center">🕶️ SpectreMapper</h1>
 <p align="center">
 <b>High-Performance PE Manual Mapping & Memory Research Tool</b><br>
