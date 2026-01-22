@@ -1,4 +1,4 @@
-![SpectreMapper](assets/demo.gif)
+![SpectreMapper](assets/execution_log.gif)
 
 <h1 align="center">🕶️ SpectreMapper</h1>
 <p align="center">
