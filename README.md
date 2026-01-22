@@ -70,7 +70,7 @@ SpectreMapper.exe &lt;TargetProcess.exe&gt; &lt;Payload.exe&gt;
 SpectreMapper.exe notepad.exe TestPayload.exe
 </pre>
 <p align="center">
-<img src="assets/gif/execution_log.gif" alt="Execution Log Screenshot" width="80%">
+<img src="assets/execution_log.gif" alt="Execution Log Screenshot" width="80%">
 <br>
 <i>Figure 1: Successful mapping showing Delta calculation and IAT resolution for CRT libraries.</i>
 </p>
