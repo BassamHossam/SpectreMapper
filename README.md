@@ -26,26 +26,6 @@ This project is a deep-dive into <b>low-level memory manipulation</b>, demonstra
 <li><b>Zero-Disk Footprint:</b> The payload exists only in the virtual memory of the target, evading traditional file-based scanners.</li>
 <li><b>Modular PE Parser:</b> A custom-built engine to interpret DOS, NT, and Section headers without standard helper libraries.</li>
 </ul>
-<hr>
-<h2>📂 Project Structure</h2>
-<pre>
-SpectreMapper/
-│
-├── SpectreMapper/ # Core Injector Source
-│ ├── src/
-│ │ ├── main.c 
-│ │ ├── PE_parser.c 
-│ │ ├── injector.c 
-│ └── include/
-│
-├── TestPayload/ # Sample Payload (MessageBox Example)
-│ └── main.c # Optimized for manual mapping (/GS-)
-│
-├── assets/ # Research Visuals (Images & Gifs)
-├── SpectreMapper.sln # Unified Visual Studio Solution
-└── README.md
-</pre>
-<hr>
 <h2>🛠️ Build & Configuration</h2>
 <h3>1. Payload Preparation</h3>
 To ensure the payload is compatible with manual mapping, it must be compiled with specific flags:
