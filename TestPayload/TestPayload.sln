@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36908.2
+VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpectreMapper", "SpectreMapper\SpectreMapper.vcxproj", "{13831028-54E9-46D9-80F9-C8754D2B7C3A}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPayload", "TestPayload\TestPayload\TestPayload.vcxproj", "{E140A97C-C44E-4D0F-90A2-E0A6F422E222}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPayload", "TestPayload\TestPayload.vcxproj", "{E140A97C-C44E-4D0F-90A2-E0A6F422E222}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,14 +13,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Debug|x64.ActiveCfg = Debug|x64
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Debug|x64.Build.0 = Debug|x64
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Debug|x86.ActiveCfg = Debug|Win32
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Debug|x86.Build.0 = Debug|Win32
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Release|x64.ActiveCfg = Release|x64
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Release|x64.Build.0 = Release|x64
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Release|x86.ActiveCfg = Release|Win32
-		{13831028-54E9-46D9-80F9-C8754D2B7C3A}.Release|x86.Build.0 = Release|Win32
 		{E140A97C-C44E-4D0F-90A2-E0A6F422E222}.Debug|x64.ActiveCfg = Debug|x64
 		{E140A97C-C44E-4D0F-90A2-E0A6F422E222}.Debug|x64.Build.0 = Debug|x64
 		{E140A97C-C44E-4D0F-90A2-E0A6F422E222}.Debug|x86.ActiveCfg = Debug|Win32
@@ -36,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DE1EF2FD-78BF-4B68-B2DD-3E7FC6A1251A}
+		SolutionGuid = {A068C9E8-9068-4991-875A-157616453361}
 	EndGlobalSection
 EndGlobal
