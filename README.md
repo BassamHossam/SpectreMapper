@@ -64,9 +64,8 @@ SpectreMapper.exe notepad.exe TestPayload.exe
 <hr>
 <h2>⚠️ Legal & Ethical Disclaimer</h2>
 <p>
-This repository is for <b>Security Research and Educational Purposes only</b>.
-The techniques demonstrated are intended for Malware Analysts, Red Teamers, and Windows Internals enthusiasts.
-The author is not responsible for any misuse or illegal activities conducted with this code.
+This project is shared for learning and research around Windows internals and PE loading mechanisms.
+It is intended for technical exploration, not for real‑world misuse.
 </p>
 <hr>
 <p align="center">
