@@ -1,4 +1,4 @@
-![SpectreMapper](assets/execution_log.gif)
+![SpectreMapper](execution_log.gif)
 
 <h1 align="center">🕶️ SpectreMapper</h1>
 <p align="center">
@@ -72,7 +72,7 @@ SpectreMapper.exe &lt;TargetProcess.exe&gt; &lt;Payload.exe&gt;
 SpectreMapper.exe notepad.exe TestPayload.exe
 </pre>
 <p align="center">
-<img src="assets/execution_log.gif" alt="Execution Log Screenshot" width="80%">
+<img src="execution_log.gif" alt="Execution Log Screenshot" width="80%">
 <br>
 <i>Figure 1: Successful mapping showing Delta calculation and IAT resolution for CRT libraries.</i>
 </p>
