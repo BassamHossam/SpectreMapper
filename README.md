@@ -9,6 +9,17 @@ Engineered in C · Advanced Windows Internals · Pure Stealth Logic
 <img src="https://img.shields.io/badge/Architecture-x64-important?style=for-the-badge">
 <img src="https://img.shields.io/badge/Stealth-Manual_Loading-red?style=for-the-badge">
 </p>
+<h2>📖 Full Technical Write-up</h2>
+<p>
+A detailed, step-by-step technical breakdown of SpectreMapper — covering design decisions, loader internals, and implementation details — is available in the accompanying research article:
+</p>
+<p>
+➡️ <b><a href="https://medium.com/@bassam.hossam69/the-art-of-manual-mapping-bypassing-the-windows-loader-for-stealthy-code-execution-a615c3572eaf">
+The Art of Manual Mapping: Bypassing the Windows Loader for Stealthy Code Execution
+</a></b>
+</p>
+<hr>
+
 <hr>
 <h2>📌 Executive Summary</h2>
 <p>
