@@ -69,7 +69,7 @@ SpectreMapper.exe notepad.exe TestPayload.exe
 <ul>
 <li>Analyze how Windows handles <code>IMAGE_BASE_RELOCATION</code> blocks.</li>
 <li>Observe EDR behavior when encountering <b>Unbacked Executable Memory</b>.</li>
-<li>Perfecting the art of <b>Reflective Loading</b> in the x64 era .</li>
+<li>Perfecting the art of <b>Reflective Loading</b> in the x64 era.</li>
 </ul>
 <hr>
 <h2>⚠️ Legal & Ethical Disclaimer</h2>
