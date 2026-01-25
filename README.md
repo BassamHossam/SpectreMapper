@@ -75,7 +75,7 @@ SpectreMapper.exe notepad.exe TestPayload.exe
 <h2>⚠️ Legal & Ethical Disclaimer</h2>
 <p>
 This project is shared for learning and research around Windows internals and PE loading mechanisms.
-It is intended for technical exploration, not for real‑world misuse.
+It is intended for technical exploration, not for real‑world misuse .
 </p>
 <hr>
 <p align="center">
